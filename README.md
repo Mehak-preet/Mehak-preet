@@ -31,7 +31,7 @@
 
 - :zap: In my free time, I try to explore new technologies .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sandeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehakpreet-singh-548b5a1a5/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mehakpreet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehakpreet-singh-548b5a1a5/)
 
 ---
 
